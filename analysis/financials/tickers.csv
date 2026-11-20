@@ -1,0 +1,20 @@
+ticker,company,sector,role,notes
+BKNG,Booking Holdings,travel,incumbent intermediary,"Booking.com, Priceline, Kayak, Agoda"
+EXPE,Expedia Group,travel,incumbent intermediary,"Expedia, Hotels.com, Vrbo"
+TCOM,Trip.com Group,travel,incumbent intermediary,
+TRIP,Tripadvisor,travel,incumbent intermediary,
+ABNB,Airbnb,travel,platform / marketplace,
+SABR,Sabre,travel,booking infrastructure,Global distribution system behind many bookings
+EVER,EverQuote,insurance,incumbent intermediary,Insurance comparison marketplace
+SLQT,SelectQuote,insurance,incumbent intermediary,Insurance broker
+LMND,Lemonade,insurance,AI-native challenger,
+ROOT,Root,insurance,AI-native challenger,
+TREE,LendingTree,financial,incumbent intermediary,Loan / credit comparison
+NRDS,NerdWallet,financial,incumbent intermediary,Financial product comparison
+INTU,Intuit,financial,incumbent / adapter,"TurboTax, Credit Karma"
+RKT,Rocket Companies,subscriptions,incumbent / adapter,Owns Rocket Money
+GOOGL,Alphabet,ai_platform,agent platform,
+MSFT,Microsoft,ai_platform,agent platform,
+AMZN,Amazon,ai_platform,agent platform,
+SPY,S&P 500 ETF,benchmark,benchmark,Overall market
+QQQ,Nasdaq-100 ETF,benchmark,benchmark,Tech-heavy market
